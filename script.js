@@ -72,6 +72,6 @@ $(document).ready(function(){
     });
 
     $(".wd").click(function(){
-        alert("Hello");
+        location.href = "web design button/index.html";
       });
 });
