@@ -75,5 +75,13 @@ $(document).ready(function(){
         location.href = "web design button/index.html";
       });
 
-      $('.web').on('dragstart', function(event) { event.preventDefault(); });
+    $(".ad").click(function(){
+         location.href = "advertising/index.html";
+    });
+
+    $(".ve").click(function(){
+        location.href = "video editing/index.html";
+    });
+
+      
 });
