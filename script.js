@@ -83,5 +83,12 @@ $(document).ready(function(){
         location.href = "video editing/index.html";
     });
 
-      
+    $(".prox").click(function(){
+        location.href = "https://discord.com/api/oauth2/authorize?client_id=844815311991603200&permissions=0&scope=bot";
+    });
+
+    
+    $(".diana").click(function(){
+        location.href = "https://discord.com/api/oauth2/authorize?client_id=989077336517402674&permissions=0&scope=bot";
+    });
 });
