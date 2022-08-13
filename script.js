@@ -91,4 +91,8 @@ $(document).ready(function(){
     $(".diana").click(function(){
         location.href = "https://discord.com/api/oauth2/authorize?client_id=989077336517402674&permissions=0&scope=bot";
     });
+
+    $(".quiz").click(function(){
+        location.href = "QUIZ/index.html";
+    });
 });
