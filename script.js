@@ -95,4 +95,12 @@ $(document).ready(function(){
     $(".quiz").click(function(){
         location.href = "QUIZ/index.html";
     });
+
+    $(".tictactoe").click(function(){
+        location.href = "tictactoe/index.html";
+    });
+
+    $(".stopwatch").click(function(){
+        location.href = "stopwatch/index.html";
+    });
 });
