@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Designer", "Developer", "Student",  "Freelancer"],
+        strings: ["Web Designer", "Developer", "Learner",  "Philosophical Thinker"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Designer", "Developer", "Student", "Freelancer"],
+        strings: ["Web Designer", "Developer", "Learner",  "Philosophical Thinker"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -102,5 +102,9 @@ $(document).ready(function(){
 
     $(".stopwatch").click(function(){
         location.href = "stopwatch/index.html";
+    });
+
+    $(".hire").click(function(){
+        location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
     });
 });
