@@ -1,3 +1,5 @@
 # Personal-Website
-This is my personal website!
+
+My personal website with every info about me!
+
 ![Screenshot](yes.png)
