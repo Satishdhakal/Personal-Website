@@ -93,7 +93,7 @@ $(document).ready(function(){
     });
 
     $(".quiz").click(function(){
-        location.href = "QUIZ/index.html";
+        location.href = "https://quiznepal.netlify.app";
     });
 
     $(".tictactoe").click(function(){
